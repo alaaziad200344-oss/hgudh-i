@@ -1,0 +1,13 @@
+{
+  "projectId": "72359266",
+  "functions": {
+    "clinic-api": {
+      "hasChanged": false,
+      "hash": "5c0ba38fff585e0e92596d98f91ebef13a2425924504cf55d65e21076bed1113"
+    },
+    "n8n-proxy": {
+      "hasChanged": false,
+      "hash": "e2537f342a304cd24e63eade9c886a301ef6215a49dddfa9afd71285c7ba467e"
+    }
+  }
+}
